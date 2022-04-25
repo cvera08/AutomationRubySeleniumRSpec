@@ -1,5 +1,5 @@
 README.md
-# Basic Automation Project to test a [![website](website)](https://arstechnica.com/) with Ruby, Selenium and RSpec
+# Basic Automation Project to test a [website](https://arstechnica.com/) [![arstechnica](https://cdn.arstechnica.net/favicon.ico)](https://arstechnica.com/) with Ruby, Selenium and RSpec
 
 ## How to Install
 If you have a mac, certain characteristcs/programs/dependencies would be there by default
