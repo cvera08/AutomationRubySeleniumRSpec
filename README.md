@@ -14,7 +14,7 @@ ruby 2.6.8p205 (2021-07-07 revision 67951) [universal.arm64e-darwin21]
 ```
 
 
-> cd /Users</yourUser></yourProjectLocation>/AutomationRubySeleniumRSpec
+> cd /Users</yourUser/yourProjectLocation>/AutomationRubySeleniumRSpec
 
 > bundle install  
 
@@ -52,7 +52,8 @@ selenium-webdriver (4.1.0)
 #If you receive a message like this " “chromedriver” can’t be opened because Apple cannot check it for malicious software. "  
 #The problem is a file from a location similar to this: /opt/homebrew/Caskroom/chromedriver/100.0.4896.60/chromedriver  
 To fix it you need to do the following:  
-In macOS when an app fails to install because it hasn’t been notarized or is from an unidentified developer, it will appear in System Preferences > Security & Privacy, under the General tab. Click Open Anyway to confirm your intent to open or install the app.    
+
+*In macOS when an app fails to install because it hasn’t been notarized or is from an unidentified developer, it will appear in System Preferences > Security & Privacy, under the General tab. Click Open Anyway to confirm your intent to open or install the app.*   
 
 #after that, run again the previous command
 
